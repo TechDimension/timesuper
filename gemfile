@@ -4,3 +4,4 @@ gem 'puma'
 gem 'pry'
 gem 'grape'
 gem "rspec"
+gem "rack-test"

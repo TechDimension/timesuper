@@ -5,10 +5,21 @@ class LogMiddleWare
   end
 
   def call(env)
-    puts 'Calling the app'
-  
+    self.class.logger.info 'Calling the app'
     @app.call(env)
-
   end
 
+  def self.logger
+    @logger ||= Logger
+  end
+
+  def self.logger= value
+    @logger = value
+  end
+end
+
+class Logger
+  def self.info(message)
+    puts message
+  end
 end

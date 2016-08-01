@@ -1,19 +1,29 @@
 class Clock
-  class << self
-    attr_accessor :actual_time , :attempts
+  attr_writer :attempts
+  attr_writer :actual_time
 
-    def decrement_attempts
-      if attempts>0
-        @attempts = attempts - 1
-      else
-        self.actual_time = get_time
-      end
+  def initialize()
+    self.attempts = attempts
+    self.actual_time = actual_time
+  end
+
+  def attempts
+    @attempts||=0
+  end
+
+  def actual_time
+    @actual_time ||= Time.now.iso8601
+  end
+
+  def decrement_attempts
+    if attempts > 0
+      @attempts -= 1
+    else
+      self.actual_time = Time.now.iso8601
     end
+  end
 
-    private 
-
-    def get_time
-      Time.new.iso8601
-    end
+  def to_json
+    {actual_time: actual_time, attempts: attempts}
   end
 end

@@ -1,29 +1,28 @@
 require 'grape'
 require_relative 'clock'
+require_relative 'clock_manager'
 
 module Timemachine 
   class Thetime < Grape::API
     version 'v1', using: :path
     format :json
 
-    get :clock do 
-      Clock.decrement_attempts
-      {
-        time: Clock.actual_time,
-        attemptsleft: Clock.attempts
-      }
-    end
+    resource :clock do 
+      get '/:name' do 
+        ClocksManager.show_clock(params[:name])
+      end
 
-    params do
-      requires :actual_time, type: String 
-      requires :attempts, type: Integer 
-    end
+      post '/:name' do
+        ClocksManager.create_clock(params[:name])
+      end
 
-    post :clock do
-      Clock.actual_time = params[:actual_time]
-      Clock.attempts = params[:attempts]
+      put '/:name' do
+        ClocksManager.update_clock(name: params[:name], attempts: params[:attempts], actual_time: params[:actual_time])
+      end
+      delete '/:name' do 
+        ClocksManager.delete_clock(params[:name])
+      end
     end
-
   end
 end
 
