@@ -2,7 +2,7 @@ class Clock
   attr_writer :attempts
   attr_writer :actual_time
 
-  def initialize()
+  def initialize
     self.attempts = attempts
     self.actual_time = actual_time
   end
@@ -12,7 +12,7 @@ class Clock
   end
 
   def actual_time
-    @actual_time ||= Time.now.iso8601
+    @actual_time||=Time.now.iso8601
   end
 
   def decrement_attempts
@@ -23,7 +23,7 @@ class Clock
     end
   end
 
-  def to_json
+  def to_json_format
     {actual_time: actual_time, attempts: attempts}
   end
 end

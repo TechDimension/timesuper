@@ -1,4 +1,3 @@
-
 class LogMiddleWare
   def initialize(app)
     @app = app      

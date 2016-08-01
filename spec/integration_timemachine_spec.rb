@@ -16,10 +16,23 @@ RSpec.describe Timemachine::Thetime do
   end
 
 
+  context "get clock" do
+    it "returns 200" do
+      get "/v1/clock/"
+      expect(last_response.status).to eq 200
+    end
+
+    it "returns time" do
+      get "/v1/clock/"
+      body = JSON.parse(last_response.body)
+      expect(body["actual_time"]).to eq Time.now.iso8601
+    end
+
+  end
 
   context "post unique clock" do
-    it "returns created status code" do
-      post "/v1/clock/real_clock?"
+    it "returns 201" do
+      post "/v1/clock/real_clock"
       expect(last_response.status).to eq 201
     end
   end
@@ -38,29 +51,29 @@ RSpec.describe Timemachine::Thetime do
     it "returns time" do
       get "/v1/clock/real_clock"
       body = JSON.parse(last_response.body)
-      expect(body["time"]).to eq Time.now.iso8601
+      expect(body["actual_time"]).to eq Time.now.iso8601
     end
 
     it "returns attempts left" do
       get "/v1/clock/real_clock"
       body = JSON.parse(last_response.body)
-      expect(body["attempts_left"]).to eq 0
+      expect(body["attempts"]).to eq 0
     end
 
     it "decrements attempts" do
       put "/v1/clock/real_clock?actual_time=rubytest&attempts=6"
       get "/v1/clock/real_clock"
       body = JSON.parse(last_response.body)
-      expect(body["attempts_left"]).to eq 5
+      expect(body["attempts"]).to eq 5
     end
   end
 
   context "put unique clock" do
     it "updates time" do 
-      post "/v1/clock/real_clock?actual_time=rubytest&attempts=6"
-      get "/v1/clock"
+      put "/v1/clock/real_clock?actual_time=rubytest&attempts=6"
+      get "/v1/clock/real_clock"
       body = JSON.parse(last_response.body)
-      expect(body["time"]).to eq "rubytest"
+      expect(body["actual_time"]).to eq "rubytest"
     end 
 
     it "returns 400" do
@@ -69,8 +82,21 @@ RSpec.describe Timemachine::Thetime do
     end
   end
 
-    
+  context "Delete unique clock" do 
+    describe 'when the clock exists' do
+      it "deletes clock" do 
+        delete "/v1/clock/real_clock"
+        expect(last_response.status).to eq 204
+      end 
+    end
 
+    describe 'when the clock DOES NOT exists' do
+      it "deletes unknown clock" do 
+        delete "/v1/clock/3123123"
+        expect(last_response.status).to eq 204
+      end 
+    end
+  end
 
 end
 
