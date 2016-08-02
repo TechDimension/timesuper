@@ -17,8 +17,7 @@ RSpec.describe ExceptionsMiddleware do
 
   context "testing exceptions" do 
     it "raises error with Name Error" do 
-      expect {object.somemethod("what")}.to raise_error(NameError)
-      expect {HELLO}.to raise_error(NameError)
+      expect {object.amethod("?")}.to raise_error(NameError)
     end
     it "raises error with Type Error" do 
       expect {[2,4].first["two"]}.to raise_error(TypeError)
