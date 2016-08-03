@@ -8,14 +8,11 @@ RSpec.describe TimemachineAPI::Thetime do
       run TimemachineAPI::Thetime
     end
   end
-
-  before do
-    log_mock = double('FakeLogger', info: true)
-    LogMiddleWare.logger = log_mock
+  before do 
+    allow(Kernel).to receive(:puts).and_return(nil)
   end
-
   after do 
-    puts MyLogger.padding
+    MyLogger.padding
   end
 
   context "get clock" do

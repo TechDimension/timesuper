@@ -11,6 +11,10 @@ RSpec.describe MyLogger do
       end
     end
 
+    after do 
+      MyLogger.padding 
+    end
+
     it "MyLogger.info" do
       MyLogger.info('message')
       expect(@output[0]).to match(/\[Unknown\] \[INFO\]:  message/)

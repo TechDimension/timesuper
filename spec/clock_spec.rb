@@ -2,9 +2,11 @@ require_relative '../lib/clock'
 
 RSpec.describe Clock do 
 
-
+  before do 
+    allow(Kernel).to receive(:puts).and_return(nil)
+  end 
   after do 
-    puts MyLogger.padding
+     MyLogger.padding
   end 
 
   context ".new" do 
