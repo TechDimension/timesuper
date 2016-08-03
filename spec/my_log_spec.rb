@@ -1,38 +1,29 @@
 require 'spec_helper'
 
-RSpec.describe TimemachineAPI::Thetime do 
-
-  def app
-    Rack::Builder.new do
-      use LogMiddleWare
-      run TimemachineAPI::Thetime
-    end
-  end
-
-  before do
-    log_mock = double('FakeLogger', info: true)
-    LogMiddleWare.logger = log_mock
-  end
-
-  after do 
-    puts MyLogger.padding
-  end
-
+RSpec.describe MyLogger do 
   context "produces log message for an event" do
+    before do
+      allow(Kernel).to receive(:puts).and_return(nil)
+      allow(Config).to receive(:logger_config).and_return("location" => 'a.log', 'level' => 'debug')
+      @output = []
+      allow(File).to receive(:open) do |loc, opts, &block|
+        block.call(@output)
+      end
+    end
+
     it "MyLogger.info" do
-      MyLogger.info ('message')
-      file = File.open('log/application_log.txt').to_a
-      expect("#{file.last}").to eq "[#{Time.now}] [Unknown] [INFO]:  message \n"
+      MyLogger.info('message')
+      expect(@output[0]).to match(/\[Unknown\] \[INFO\]:  message/)
     end
+
     it "MyLogger.debug" do
-      MyLogger.debug ('message')
-      file = File.open('log/application_log.txt').to_a
-      expect("#{file.last}").to eq "[#{Time.now}] [Unknown] [DEBUG]: message \n"
+      MyLogger.debug('message')
+      expect(@output[0]).to match(/\[Unknown\] \[DEBUG\]: message/)
     end
+
     it "MyLogger.error" do
-      MyLogger.error ('message')
-      file = File.open('log/application_log.txt').to_a
-      expect("#{file.last}").to eq "[#{Time.now}] [Unknown] [ERROR]: message \n"
+      MyLogger.error('message')
+      expect(@output[0]).to match(/\[Unknown\] \[ERROR\]: message/)
     end
   end
 end

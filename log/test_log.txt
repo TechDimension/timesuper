@@ -1,0 +1,1108 @@
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:00:00 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:00:46 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:03:32 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:03:32 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:04:00 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:04:00 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:06:10 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:07:08 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:09:58 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:12:00 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+[2016-08-03 12:12:14 +0100] [GET /v1/clock/real_clock] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:12:14 +0100] [GET /v1/clock/real_clock] [INFO]:  No Clock Found with name: real_clock 
+[2016-08-03 12:12:14 +0100] [GET /v1/clock/real_clock] [INFO]:  Took: 19.987 ms 
+========================================================================================================== 
+[2016-08-03 12:12:25 +0100] [GET /v1/clock/] [DEBUG]: Showing Global Time 
+[2016-08-03 12:12:25 +0100] [GET /v1/clock/] [INFO]:  Global Time showed 
+[2016-08-03 12:12:25 +0100] [GET /v1/clock/] [INFO]:  Took: 1.952 ms 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:37:39 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [INFO]:  message 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [DEBUG]: message 
+========================================================================================================== 
+[2016-08-03 12:38:32 +0100] [Unknown] [ERROR]: message 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 14:11:09 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 14:11:09 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [INFO]:  decremented attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:09 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+========================================================================================================== 
+[2016-08-03 14:11:09 +0100] [Unknown] [ERROR]: Standard Error! 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Global Time 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Global Time showed 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: blah 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  No Clock Found with name: blah 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Did not decrement attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Updating clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Updated Clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Showing Time of clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Clock Found with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: decrementing attempts 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  decremented attempts 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Deleting clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Deleted Clock with name: real_clock 
+========================================================================================================== 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Creating new clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Created clock with name: real_clock 
+[2016-08-03 14:11:10 +0100] [Unknown] [DEBUG]: Deleting clock with name: 3123123 
+[2016-08-03 14:11:10 +0100] [Unknown] [INFO]:  Deleted Clock with name: 3123123 
+========================================================================================================== 
+[2016-08-03 14:22:35 +0100] [Unknown] [DEBUG]: message 
+[2016-08-03 14:22:35 +0100] [Unknown] [ERROR]: message 
+[2016-08-03 14:23:03 +0100] [Unknown] [DEBUG]: message 
+[2016-08-03 14:23:03 +0100] [Unknown] [ERROR]: message 
+[2016-08-03 14:23:28 +0100] [Unknown] [DEBUG]: message 
+[2016-08-03 14:23:28 +0100] [Unknown] [ERROR]: message 

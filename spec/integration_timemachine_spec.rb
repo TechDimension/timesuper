@@ -36,6 +36,7 @@ RSpec.describe TimemachineAPI::Thetime do
       post "/v1/clock/real_clock"
       expect(last_response.status).to eq 201
     end
+
     it "returns the body of the clock" do 
       get "/v1/clock/real_clock"
       body = JSON.parse(last_response.body)
@@ -97,7 +98,6 @@ RSpec.describe TimemachineAPI::Thetime do
     end
 
     context "Bad parameters" do
-
       it "returns 400 Invalid" do
         post "/v1/clock/real_clock"
         put "/v1/clock/real_clock?actual_time=rubytest&attempts=BadAttempts"
@@ -137,6 +137,5 @@ RSpec.describe TimemachineAPI::Thetime do
       end 
     end
   end
-
 end
 
