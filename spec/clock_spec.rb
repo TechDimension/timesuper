@@ -2,6 +2,11 @@ require_relative '../lib/clock'
 
 RSpec.describe Clock do 
 
+
+  after do 
+    puts MyLogger.padding
+  end 
+
   context ".new" do 
     it "intializes new clock instance with default values" do 
       clock = Clock.new

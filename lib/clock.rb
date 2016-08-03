@@ -1,3 +1,4 @@
+require_relative 'my_logger'
 class Clock
   attr_writer :attempts
   attr_writer :actual_time
@@ -16,9 +17,12 @@ class Clock
   end
 
   def decrement_attempts
+    MyLogger.debug "decrementing attempts"
     if attempts > 0
+      MyLogger.info "decremented attempts"
       @attempts -= 1
     else
+      MyLogger.info "Did not decrement attempts"
       self.actual_time = Time.now.iso8601
     end
   end

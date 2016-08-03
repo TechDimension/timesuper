@@ -1,10 +1,11 @@
+require_relative 'my_logger'
+
 class LogMiddleWare
   def initialize(app)
     @app = app      
   end
 
   def call(env)
-    self.class.logger.info 'Calling the app'
     @app.call(env)
   end
 
@@ -17,8 +18,3 @@ class LogMiddleWare
   end
 end
 
-class Logger
-  def self.info(message)
-    puts message
-  end
-end

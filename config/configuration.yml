@@ -1,0 +1,5 @@
+logger:
+  location: "log/application_log.txt"
+  level: debug
+server:
+  port: 9990

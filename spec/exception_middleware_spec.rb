@@ -1,29 +1,29 @@
 require 'spec_helper'
-require_relative "../lib/exceptions_middleware"
-require_relative "../lib/log_middleware"
 
-RSpec.describe ExceptionsMiddleware do 
+RSpec.describe TimemachineAPI::Thetime do 
   def app
     Rack::Builder.new do
-     use LogMiddleWare
-     use ExceptionsMiddleware
+      use LogMiddleWare
+      use ExceptionsMiddleware
+      run TimemachineAPI::Thetime
     end
   end
 
   before do
     log_mock = double('FakeLogger', info: true)
     LogMiddleWare.logger = log_mock
+    allow(TimemachineAPI::Thetime).to receive(:call).and_raise("boom")
+    
+  end
+
+  after do 
+    puts MyLogger.padding 
   end
 
   context "testing exceptions" do 
-    it "raises error with Name Error" do 
-      expect {object.amethod("?")}.to raise_error(NameError)
-    end
-    it "raises error with Type Error" do 
-      expect {[2,4].first["two"]}.to raise_error(TypeError)
-    end
-    it "raises error with Zero Division Error" do 
-      expect {99/0}.to raise_error(ZeroDivisionError)
+    it "returns 500" do 
+      get "/v1/clock/"
+      expect(last_response.status).to eq 500
     end
   end 
 end
